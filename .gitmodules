@@ -1,0 +1,6 @@
+[submodule "myst-editor"]
+	path = myst-editor
+	url = https://github.com/Onefabis/myst-editor.git
+[submodule "sphinx"]
+	path = sphinx
+	url = https://github.com/Onefabis/sphinx.git

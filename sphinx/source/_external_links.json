@@ -1,0 +1,4 @@
+{
+  "git_issue": ["https://github.com/sphinx-doc/sphinx/issues/%s","issue %s"],
+  "mdn-webdocs": ["https://developer.mozilla.org/en-US/docs/Web/%s", "MDN web docs: %s"]
+}
